@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/ReactCoinTracker/static/js/main.e8eb8977.js",
+    "index.html": "/ReactCoinTracker/index.html",
+    "main.e8eb8977.js.map": "/ReactCoinTracker/static/js/main.e8eb8977.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e8eb8977.js"
+  ]
+}
